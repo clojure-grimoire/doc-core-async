@@ -1,0 +1,1 @@
+{:ns "clojure.core.async", :name "admix", :file "clojure/core/async.clj", :type :fn, :src "(defn admix\n  \"Adds ch as an input to the mix\"\n  [mix ch]\n  (admix* mix ch))", :column 1, :line 752, :arglists ([mix ch]), :doc "Adds ch as an input to the mix"}

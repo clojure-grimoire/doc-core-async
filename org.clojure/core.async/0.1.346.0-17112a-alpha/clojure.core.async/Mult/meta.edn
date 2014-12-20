@@ -1,0 +1,1 @@
+{:type :var, :src "(defprotocol Mult\n  (tap* [m ch close?])\n  (untap* [m ch])\n  (untap-all* [m]))", :doc nil, :ns "clojure.core.async", :name "Mult", :file "clojure/core/async.clj", :column 1, :line 610}

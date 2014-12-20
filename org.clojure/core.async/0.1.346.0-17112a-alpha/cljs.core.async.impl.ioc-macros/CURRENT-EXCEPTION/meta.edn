@@ -1,0 +1,1 @@
+{:ns "cljs.core.async.impl.ioc-macros", :name "CURRENT-EXCEPTION", :file "cljs/core/async/impl/ioc_macros.clj", :type :var, :src "(def ^:const CURRENT-EXCEPTION 5)", :column 1, :const true, :line 31}

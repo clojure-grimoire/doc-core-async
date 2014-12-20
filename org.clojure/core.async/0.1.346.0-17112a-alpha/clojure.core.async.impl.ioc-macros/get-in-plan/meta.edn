@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.ioc-macros", :name "get-in-plan", :file "clojure/core/async/impl/ioc_macros.clj", :type :fn, :src "(defn get-in-plan\n  \"Same as get-in, but for a state hash map\"\n  [path]\n  (fn [plan]\n    [(get-in plan path) plan]))", :column 1, :line 139, :arglists ([path]), :doc "Same as get-in, but for a state hash map"}

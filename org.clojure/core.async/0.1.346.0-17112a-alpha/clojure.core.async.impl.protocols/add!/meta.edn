@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.protocols", :name "add!", :file "clojure/core/async/impl/protocols.clj", :type :fn, :src "(defn add!\n  ([b] b)\n  ([b itm]\n     (assert (not (nil? itm)))\n     (add!* b itm)))", :column 1, :line 35, :arglists ([b] [b itm])}

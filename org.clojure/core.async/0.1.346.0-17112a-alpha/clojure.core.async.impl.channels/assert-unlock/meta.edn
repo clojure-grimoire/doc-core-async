@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.channels", :name "assert-unlock", :file "clojure/core/async/impl/channels.clj", :type :macro, :src "(defmacro assert-unlock [lock test msg]\n  `(when-not ~test\n     (.unlock ~lock)\n     (throw (new AssertionError (str \"Assert failed: \" ~msg \"\\n\" (pr-str '~test))))))", :column 1, :line 19, :macro true, :arglists ([lock test msg])}

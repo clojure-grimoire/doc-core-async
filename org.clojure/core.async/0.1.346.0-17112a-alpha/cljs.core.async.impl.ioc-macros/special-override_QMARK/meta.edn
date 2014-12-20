@@ -1,0 +1,1 @@
+{:ns "cljs.core.async.impl.ioc-macros", :name "special-override?", :file "cljs/core/async/impl/ioc_macros.clj", :type :var, :src "(def special-override? '#{case clojure.core/case\n                          try clojure.core/try})", :column 1, :line 657}

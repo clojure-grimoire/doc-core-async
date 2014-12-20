@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.ioc-macros", :name "get-block", :file "clojure/core/async/impl/ioc_macros.clj", :type :fn, :src "(defn get-block\n  \"Gets the current block\"\n  []\n  (fn [plan]\n    [(:current-block plan) plan]))", :column 1, :line 156, :arglists ([]), :doc "Gets the current block"}

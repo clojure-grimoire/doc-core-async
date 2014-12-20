@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.ioc-macros", :name "instruction?", :file "clojure/core/async/impl/ioc_macros.clj", :type :fn, :src "(defn instruction? [x]\n  (::instruction (meta x)))", :column 1, :line 178, :arglists ([x])}

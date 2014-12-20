@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.ioc-macros", :name "get-plan", :file "clojure/core/async/impl/ioc_macros.clj", :type :fn, :src "(defn get-plan\n  \"Returns the final [id state] from a plan. \"\n  [f]\n  (f {}))", :column 1, :line 77, :arglists ([f]), :doc "Returns the final [id state] from a plan. "}

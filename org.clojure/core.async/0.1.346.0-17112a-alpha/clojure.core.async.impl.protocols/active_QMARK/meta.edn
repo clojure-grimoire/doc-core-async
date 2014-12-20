@@ -1,0 +1,1 @@
+{:type :fn, :src nil, :ns "clojure.core.async.impl.protocols", :doc "returns true if has callback. Must work w/o lock", :arglists ([h]), :name "active?"}

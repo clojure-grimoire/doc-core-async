@@ -1,0 +1,1 @@
+{:ns "clojure.core.async", :name "unsub", :file "clojure/core/async.clj", :type :fn, :src "(defn unsub\n  \"Unsubscribes a channel from a topic of a pub\"\n  [p topic ch]\n  (unsub* p topic ch))", :column 1, :line 852, :arglists ([p topic ch]), :doc "Unsubscribes a channel from a topic of a pub"}

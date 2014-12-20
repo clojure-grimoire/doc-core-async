@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.ioc-macros", :name "var-name", :file "clojure/core/async/impl/ioc_macros.clj", :type :fn, :src "(defn var-name [v]\n  (let [nm (:name (meta v))\n        nsp (.getName ^clojure.lang.Namespace (:ns (meta v)))]\n    (symbol (name nsp) (name nm))))", :column 1, :line 526, :arglists ([v])}

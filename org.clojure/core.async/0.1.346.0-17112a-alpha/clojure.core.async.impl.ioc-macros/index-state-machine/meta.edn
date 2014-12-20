@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.ioc-macros", :name "index-state-machine", :file "clojure/core/async/impl/ioc_macros.clj", :type :fn, :src "(defn index-state-machine [machine]\n  (reduce index-block {} (:blocks machine)))", :column 1, :line 829, :arglists ([machine])}

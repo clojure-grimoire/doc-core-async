@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.mutex", :name "mutex", :file "clojure/core/async/impl/mutex.clj", :type :fn, :src "(defn mutex []\n  (let [m (ReentrantLock.)]\n    (reify\n     Lock\n     (lock [_] (.lock m))\n     (unlock [_] (.unlock m)))))", :column 1, :line 15, :arglists ([])}

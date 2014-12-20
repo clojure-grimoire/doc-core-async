@@ -1,0 +1,1 @@
+{:ns "clojure.core.async", :name "solo-mode", :file "clojure/core/async.clj", :type :fn, :src "(defn solo-mode\n  \"Sets the solo mode of the mix. mode must be one of :mute or :pause\"\n  [mix mode]\n  (solo-mode* mix mode))", :column 1, :line 779, :arglists ([mix mode]), :doc "Sets the solo mode of the mix. mode must be one of :mute or :pause"}

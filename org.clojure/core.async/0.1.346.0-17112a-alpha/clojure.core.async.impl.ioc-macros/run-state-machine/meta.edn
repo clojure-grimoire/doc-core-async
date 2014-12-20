@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.ioc-macros", :name "run-state-machine", :file "clojure/core/async/impl/ioc_macros.clj", :type :fn, :src "(defn run-state-machine [state]\n  ((aget-object state FN-IDX) state))", :column 1, :line 939, :arglists ([state])}

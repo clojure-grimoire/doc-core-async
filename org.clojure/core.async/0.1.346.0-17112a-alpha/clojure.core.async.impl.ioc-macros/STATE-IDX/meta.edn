@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.ioc-macros", :name "STATE-IDX", :file "clojure/core/async/impl/ioc_macros.clj", :type :var, :src "(def ^:const STATE-IDX 1)", :column 1, :const true, :line 31}

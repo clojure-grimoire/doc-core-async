@@ -1,0 +1,1 @@
+{:type :var, :src "(def ^:const ^int MAX-QUEUE-SIZE 1024)", :ns "clojure.core.async.impl.protocols", :name "MAX-QUEUE-SIZE", :file "clojure/core/async/impl/protocols.clj", :column 1, :line 13, :const true, :tag #<core$int clojure.core$int@4b544732>}

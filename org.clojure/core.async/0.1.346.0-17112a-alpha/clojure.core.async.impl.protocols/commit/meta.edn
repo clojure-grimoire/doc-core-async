@@ -1,0 +1,1 @@
+{:type :fn, :src nil, :ns "clojure.core.async.impl.protocols", :doc "commit to fulfilling its end of the transfer, returns cb. Must be called within lock", :arglists ([h]), :name "commit"}

@@ -1,0 +1,1 @@
+{:type :fn, :src nil, :ns "clojure.core.async.impl.protocols", :doc "derefable boolean (false iff already closed) if handled, nil if put was enqueued. Must throw on nil val.", :arglists ([port val fn1-handler]), :name "put!"}

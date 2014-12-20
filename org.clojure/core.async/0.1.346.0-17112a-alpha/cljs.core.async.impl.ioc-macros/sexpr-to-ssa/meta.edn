@@ -1,0 +1,1 @@
+{:type :var, :src "(defmulti sexpr-to-ssa (fn [[x & _]]\n                         x))", :ns "cljs.core.async.impl.ioc-macros", :name "sexpr-to-ssa", :file "cljs/core/async/impl/ioc_macros.clj", :column 1, :line 400}

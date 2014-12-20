@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.ioc-macros", :name "FN-IDX", :file "clojure/core/async/impl/ioc_macros.clj", :type :var, :src "(def ^:const FN-IDX 0)", :column 1, :const true, :line 30}

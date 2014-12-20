@@ -1,0 +1,1 @@
+{:type :var, :src "(defmulti -item-to-ssa :op)", :ns "clojure.core.async.impl.ioc-macros", :name "-item-to-ssa", :file "clojure/core/async/impl/ioc_macros.clj", :column 1, :line 487}

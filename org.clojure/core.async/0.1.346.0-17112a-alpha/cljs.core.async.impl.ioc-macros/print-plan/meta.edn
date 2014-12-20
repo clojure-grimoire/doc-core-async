@@ -1,0 +1,1 @@
+{:ns "cljs.core.async.impl.ioc-macros", :name "print-plan", :file "cljs/core/async/impl/ioc_macros.clj", :type :fn, :src "(defn print-plan []\n  (fn [plan]\n    (pprint plan)\n    [nil plan]))", :column 1, :line 135, :arglists ([])}

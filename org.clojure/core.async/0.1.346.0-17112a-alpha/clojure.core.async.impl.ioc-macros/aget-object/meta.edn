@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.ioc-macros", :name "aget-object", :file "clojure/core/async/impl/ioc_macros.clj", :type :fn, :src "(defn aget-object [^AtomicReferenceArray arr idx]\n  (.get arr idx))", :column 1, :line 41, :arglists ([arr idx])}

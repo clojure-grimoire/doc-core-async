@@ -1,0 +1,1 @@
+{:ns "clojure.core.async", :name "remove>", :file "clojure/core/async.clj", :type :fn, :src "(defn remove>\n  \"Deprecated - this function will be removed. Use transformer instead\"\n  [p ch]\n  (filter> (complement p) ch))", :column 1, :line 1007, :arglists ([p ch]), :doc "Deprecated - this function will be removed. Use transformer instead"}

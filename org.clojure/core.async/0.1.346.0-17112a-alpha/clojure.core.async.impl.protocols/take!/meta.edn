@@ -1,0 +1,1 @@
+{:type :fn, :src nil, :ns "clojure.core.async.impl.protocols", :doc "derefable val if taken, nil if take was enqueued", :arglists ([port fn1-handler]), :name "take!"}

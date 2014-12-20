@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.buffers", :name "dropping-buffer", :file "clojure/core/async/impl/buffers.clj", :type :fn, :src "(defn dropping-buffer [n]\n  (DroppingBuffer. (LinkedList.) n))", :column 1, :line 48, :arglists ([n])}

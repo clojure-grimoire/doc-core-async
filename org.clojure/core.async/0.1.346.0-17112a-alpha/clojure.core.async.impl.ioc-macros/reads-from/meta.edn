@@ -1,0 +1,1 @@
+{:type :fn, :src nil, :ns "clojure.core.async.impl.ioc-macros", :doc "Returns a list of instructions this instruction reads from", :arglists ([this]), :name "reads-from"}

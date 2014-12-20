@@ -1,0 +1,1 @@
+{:type :var, :src "(defprotocol WritePort\n  (put! [port val fn1-handler] \"derefable boolean (false iff already closed) if handled, nil if put was enqueued. Must throw on nil val.\"))", :doc nil, :ns "clojure.core.async.impl.protocols", :name "WritePort", :file "clojure/core/async/impl/protocols.clj", :column 1, :line 18}

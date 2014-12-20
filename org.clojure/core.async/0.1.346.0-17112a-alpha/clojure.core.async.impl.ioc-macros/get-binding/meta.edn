@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.ioc-macros", :name "get-binding", :file "clojure/core/async/impl/ioc_macros.clj", :type :fn, :src "(defn get-binding\n  \"Gets the value of the current binding for key\"\n  [key]\n  (fn [plan]\n    [(first (get-in plan [:bindings key])) plan]))", :column 1, :line 96, :arglists ([key]), :doc "Gets the value of the current binding for key"}

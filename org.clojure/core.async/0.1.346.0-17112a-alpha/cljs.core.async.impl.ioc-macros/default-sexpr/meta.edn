@@ -1,0 +1,1 @@
+{:ns "cljs.core.async.impl.ioc-macros", :name "default-sexpr", :file "cljs/core/async/impl/ioc_macros.clj", :type :fn, :src "(defn default-sexpr [args]\n  (gen-plan\n   [args-ids (all (map item-to-ssa args))\n    inst-id (add-instruction (->Call args-ids))]\n   inst-id))", :column 1, :line 409, :arglists ([args])}

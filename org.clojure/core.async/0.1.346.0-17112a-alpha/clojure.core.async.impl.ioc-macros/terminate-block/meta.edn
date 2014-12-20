@@ -1,0 +1,1 @@
+{:type :fn, :src nil, :ns "clojure.core.async.impl.ioc-macros", :doc "Emites the code to terminate a given block", :arglists ([this state-sym custom-terminators]), :name "terminate-block"}

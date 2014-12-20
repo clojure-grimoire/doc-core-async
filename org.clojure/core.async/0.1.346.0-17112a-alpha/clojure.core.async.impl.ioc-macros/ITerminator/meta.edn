@@ -1,0 +1,1 @@
+{:type :var, :src "(defprotocol ITerminator\n  (terminator-code [this] \"Returns a unique symbol for this instruction\")\n  (terminate-block [this state-sym custom-terminators] \"Emites the code to terminate a given block\"))", :doc nil, :ns "clojure.core.async.impl.ioc-macros", :name "ITerminator", :file "clojure/core/async/impl/ioc_macros.clj", :column 1, :line 223}

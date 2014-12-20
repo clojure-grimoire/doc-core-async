@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce the-executor\n  (Executors/newFixedThreadPool\n   (-> (Runtime/getRuntime)\n       (.availableProcessors)\n       (* 2)\n       (+ 42))\n   (conc/counted-thread-factory \"async-dispatch-%d\" true)))", :ns "clojure.core.async.impl.exec.threadpool", :name "the-executor", :file "clojure/core/async/impl/exec/threadpool.clj", :column 1, :line 16}

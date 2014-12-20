@@ -1,0 +1,1 @@
+{:ns "clojure.core.async", :name "untap-all", :file "clojure/core/async.clj", :type :fn, :src "(defn untap-all\n  \"Disconnects all target channels from a mult\"\n  [mult] (untap-all* mult))", :column 1, :line 671, :arglists ([mult]), :doc "Disconnects all target channels from a mult"}

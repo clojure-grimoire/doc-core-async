@@ -1,0 +1,1 @@
+{:ns "clojure.core.async", :name "go-loop", :file "clojure/core/async.clj", :type :macro, :src "(defmacro go-loop\n  \"Like (go (loop ...))\"\n  [bindings & body]\n  `(go (loop ~bindings ~@body)))", :column 1, :line 421, :macro true, :arglists ([bindings & body]), :doc "Like (go (loop ...))"}

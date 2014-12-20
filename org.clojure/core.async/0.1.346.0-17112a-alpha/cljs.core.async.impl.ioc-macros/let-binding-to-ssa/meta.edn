@@ -1,0 +1,1 @@
+{:ns "cljs.core.async.impl.ioc-macros", :name "let-binding-to-ssa", :file "cljs/core/async/impl/ioc_macros.clj", :type :fn, :src "(defn let-binding-to-ssa\n  [[sym bind]]\n  (gen-plan\n   [bind-id (item-to-ssa bind)\n    _ (push-alter-binding :locals assoc sym bind-id)]\n   bind-id))", :column 1, :line 415, :arglists ([[sym bind]])}

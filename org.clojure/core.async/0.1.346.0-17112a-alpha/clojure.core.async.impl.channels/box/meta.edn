@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.channels", :name "box", :file "clojure/core/async/impl/channels.clj", :type :fn, :src "(defn box [val]\n  (reify clojure.lang.IDeref\n         (deref [_] val)))", :column 1, :line 24, :arglists ([val])}

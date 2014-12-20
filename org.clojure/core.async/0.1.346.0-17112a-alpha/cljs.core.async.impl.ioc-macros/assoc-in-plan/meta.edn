@@ -1,0 +1,1 @@
+{:ns "cljs.core.async.impl.ioc-macros", :name "assoc-in-plan", :file "cljs/core/async/impl/ioc_macros.clj", :type :fn, :src "(defn assoc-in-plan\n  \"Same as assoc-in, but for state hash map\"\n  [path val]\n  (fn [plan]\n    [val (assoc-in plan path val)]))", :column 1, :line 117, :arglists ([path val]), :doc "Same as assoc-in, but for state hash map"}

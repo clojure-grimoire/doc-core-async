@@ -1,0 +1,1 @@
+{:type :var, :src "(defprotocol Mix\n  (admix* [m ch])\n  (unmix* [m ch])\n  (unmix-all* [m])\n  (toggle* [m state-map])\n  (solo-mode* [m mode]))", :doc nil, :ns "clojure.core.async", :name "Mix", :file "clojure/core/async.clj", :column 1, :line 675}

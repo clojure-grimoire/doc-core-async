@@ -1,0 +1,1 @@
+{:ns "cljs.core.async.impl.ioc-macros", :name "item-to-ssa", :file "cljs/core/async/impl/ioc_macros.clj", :type :fn, :src "(defn item-to-ssa [x]\n  (-item-to-ssa x))", :column 1, :line 396, :arglists ([x])}

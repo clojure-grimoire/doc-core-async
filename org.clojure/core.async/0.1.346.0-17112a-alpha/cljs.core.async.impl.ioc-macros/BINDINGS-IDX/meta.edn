@@ -1,0 +1,1 @@
+{:ns "cljs.core.async.impl.ioc-macros", :name "BINDINGS-IDX", :file "cljs/core/async/impl/ioc_macros.clj", :type :var, :src "(def ^:const BINDINGS-IDX 3)", :column 1, :const true, :line 29}

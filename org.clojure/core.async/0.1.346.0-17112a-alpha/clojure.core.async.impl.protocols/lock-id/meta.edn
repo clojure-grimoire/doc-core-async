@@ -1,0 +1,1 @@
+{:type :fn, :src nil, :ns "clojure.core.async.impl.protocols", :doc "a unique id for lock acquisition order, 0 if no lock", :arglists ([h]), :name "lock-id"}

@@ -1,0 +1,1 @@
+{:type :var, :src "(defprotocol MMC\n  (cleanup [_])\n  (abort [_]))", :doc nil, :ns "clojure.core.async.impl.channels", :name "MMC", :file "clojure/core/async/impl/channels.clj", :column 1, :line 28}

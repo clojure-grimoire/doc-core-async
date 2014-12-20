@@ -1,0 +1,1 @@
+{:ns "cljs.core.async.impl.ioc-macros", :name "is-special?", :file "cljs/core/async/impl/ioc_macros.clj", :type :fn, :src "(defn is-special? [x]\n  (let [^clojure.lang.MultiFn mfn sexpr-to-ssa]\n    (.getMethod mfn x)))", :column 1, :line 403, :arglists ([x])}

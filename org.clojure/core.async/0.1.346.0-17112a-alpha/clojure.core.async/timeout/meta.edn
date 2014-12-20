@@ -1,0 +1,1 @@
+{:ns "clojure.core.async", :name "timeout", :file "clojure/core/async.clj", :type :fn, :src "(defn timeout\n  \"Returns a channel that will close after msecs\"\n  [^long msecs]\n  (timers/timeout msecs))", :column 1, :line 82, :arglists ([msecs]), :doc "Returns a channel that will close after msecs"}

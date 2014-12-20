@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce\n  ^{:doc \"Number of processors reported by the JVM\"}\n  processors (.availableProcessors (Runtime/getRuntime)))", :ns "clojure.core.async.impl.concurrent", :name "processors", :file "clojure/core/async/impl/concurrent.clj", :column 1, :line 28, :doc "Number of processors reported by the JVM"}

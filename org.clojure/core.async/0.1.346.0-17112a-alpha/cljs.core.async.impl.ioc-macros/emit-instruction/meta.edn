@@ -1,0 +1,1 @@
+{:type :fn, :src nil, :ns "cljs.core.async.impl.ioc-macros", :doc "Returns the clojure code that this instruction represents", :arglists ([this state-sym]), :name "emit-instruction"}

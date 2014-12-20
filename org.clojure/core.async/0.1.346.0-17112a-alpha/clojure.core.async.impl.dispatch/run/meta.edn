@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.dispatch", :name "run", :file "clojure/core/async/impl/dispatch.clj", :type :fn, :src "(defn run\n  \"Runs Runnable r in a thread pool thread\"\n  [^Runnable r]\n  (impl/exec @executor r))", :column 1, :line 18, :arglists ([r]), :doc "Runs Runnable r in a thread pool thread"}

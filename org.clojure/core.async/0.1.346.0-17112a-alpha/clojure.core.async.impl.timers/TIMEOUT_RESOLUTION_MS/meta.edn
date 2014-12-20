@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.timers", :name "TIMEOUT_RESOLUTION_MS", :file "clojure/core/async/impl/timers.clj", :type :var, :src "(def ^:const TIMEOUT_RESOLUTION_MS 10)", :column 1, :const true, :line 23}

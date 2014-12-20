@@ -1,0 +1,1 @@
+{:type :var, :src "(defprotocol Pub\n  (sub* [p v ch close?])\n  (unsub* [p v ch])\n  (unsub-all* [p] [p v]))", :doc nil, :ns "clojure.core.async", :name "Pub", :file "clojure/core/async.clj", :column 1, :line 784}

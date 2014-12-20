@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.buffers", :name "fixed-buffer", :file "clojure/core/async/impl/buffers.clj", :type :fn, :src "(defn fixed-buffer [^long n]\n  (FixedBuffer. (LinkedList.) n))", :column 1, :line 29, :arglists ([n])}

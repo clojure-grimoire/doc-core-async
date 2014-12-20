@@ -1,0 +1,1 @@
+{:ns "cljs.core.async.impl.ioc-macros", :name "index-block", :file "cljs/core/async/impl/ioc_macros.clj", :type :fn, :src "(defn index-block [idx [blk-id blk]]\n  (reduce (partial index-instruction blk-id) idx blk))", :column 1, :line 774, :arglists ([idx [blk-id blk]])}

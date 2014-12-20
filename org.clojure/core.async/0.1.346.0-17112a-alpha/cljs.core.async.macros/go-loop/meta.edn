@@ -1,0 +1,1 @@
+{:ns "cljs.core.async.macros", :name "go-loop", :file "cljs/core/async/macros.clj", :type :macro, :src "(defmacro go-loop\n  \"Like (go (loop ...))\"\n  [bindings & body]\n  `(go (loop ~bindings ~@body)))", :column 1, :line 95, :macro true, :arglists ([bindings & body]), :doc "Like (go (loop ...))"}

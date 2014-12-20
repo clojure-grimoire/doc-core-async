@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.ioc-macros", :name "let-binding-to-ssa", :file "clojure/core/async/impl/ioc_macros.clj", :type :fn, :src "(defn let-binding-to-ssa\n  [{:keys [name init]}]\n  (gen-plan\n   [bind-id (item-to-ssa init)\n    _ (push-alter-binding :locals assoc name bind-id)]\n   bind-id))", :column 1, :line 544, :arglists ([{:keys [name init]}])}

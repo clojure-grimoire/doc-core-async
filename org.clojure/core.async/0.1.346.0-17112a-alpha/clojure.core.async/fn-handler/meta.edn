@@ -1,0 +1,1 @@
+{:ns "clojure.core.async", :name "fn-handler", :file "clojure/core/async.clj", :type :fn, :src "(defn fn-handler\n  [f]\n  (reify\n   Lock\n   (lock [_])\n   (unlock [_])\n\n   impl/Handler\n   (active? [_] true)\n   (lock-id [_] 0)\n   (commit [_] f)))", :column 1, :line 30, :arglists ([f])}

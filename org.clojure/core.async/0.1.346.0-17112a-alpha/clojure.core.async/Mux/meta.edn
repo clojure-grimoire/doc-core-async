@@ -1,0 +1,1 @@
+{:type :var, :src "(defprotocol Mux\n  (muxch* [_]))", :doc nil, :ns "clojure.core.async", :name "Mux", :file "clojure/core/async.clj", :column 1, :line 607}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.async", :name "buffer", :file "clojure/core/async.clj", :type :fn, :src "(defn buffer\n  \"Returns a fixed buffer of size n. When full, puts will block/park.\"\n  [n]\n  (buffers/fixed-buffer n))", :column 1, :line 42, :arglists ([n]), :doc "Returns a fixed buffer of size n. When full, puts will block/park."}

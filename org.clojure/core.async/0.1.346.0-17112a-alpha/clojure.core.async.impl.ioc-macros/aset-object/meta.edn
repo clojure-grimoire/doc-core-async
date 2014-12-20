@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.ioc-macros", :name "aset-object", :file "clojure/core/async/impl/ioc_macros.clj", :type :fn, :src "(defn aset-object [^AtomicReferenceArray arr idx ^Object o]\n  (.set arr idx o))", :column 1, :line 38, :arglists ([arr idx o])}

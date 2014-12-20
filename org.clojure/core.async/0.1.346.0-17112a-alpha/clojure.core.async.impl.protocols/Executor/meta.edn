@@ -1,0 +1,1 @@
+{:type :var, :src "(defprotocol Executor\n  (exec [e runnable] \"execute runnable asynchronously\"))", :doc nil, :ns "clojure.core.async.impl.protocols", :name "Executor", :file "clojure/core/async/impl/protocols.clj", :column 1, :line 41}

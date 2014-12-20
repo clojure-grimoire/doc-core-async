@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce timeout-daemon\n  (doto (Thread. ^Runnable timeout-worker \"clojure.core.async.timers/timeout-daemon\")\n    (.setDaemon true)\n    (.start)))", :ns "clojure.core.async.impl.timers", :name "timeout-daemon", :file "clojure/core/async/impl/timers.clj", :column 1, :line 65}

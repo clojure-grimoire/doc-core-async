@@ -1,0 +1,1 @@
+{:type :var, :src "(defprotocol Channel\n  (close! [chan])\n  (closed? [chan]))", :doc nil, :ns "clojure.core.async.impl.protocols", :name "Channel", :file "clojure/core/async/impl/protocols.clj", :column 1, :line 21}

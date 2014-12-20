@@ -1,0 +1,1 @@
+{:ns "clojure.core.async", :name "unmix", :file "clojure/core/async.clj", :type :fn, :src "(defn unmix\n  \"Removes ch as an input to the mix\"\n  [mix ch]\n  (unmix* mix ch))", :column 1, :line 757, :arglists ([mix ch]), :doc "Removes ch as an input to the mix"}

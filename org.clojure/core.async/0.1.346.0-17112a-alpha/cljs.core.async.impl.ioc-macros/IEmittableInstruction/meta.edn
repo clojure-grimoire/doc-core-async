@@ -1,0 +1,1 @@
+{:type :var, :src "(defprotocol IEmittableInstruction\n  (emit-instruction [this state-sym] \"Returns the clojure code that this instruction represents\"))", :doc nil, :ns "cljs.core.async.impl.ioc-macros", :name "IEmittableInstruction", :file "cljs/core/async/impl/ioc_macros.clj", :column 1, :line 195}

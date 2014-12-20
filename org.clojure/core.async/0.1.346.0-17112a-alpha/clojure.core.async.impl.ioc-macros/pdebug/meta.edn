@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.ioc-macros", :name "pdebug", :file "clojure/core/async/impl/ioc_macros.clj", :type :fn, :src "(defn pdebug [x]\n  (clojure.pprint/pprint x)\n  (println \"----\")\n  x)", :column 1, :line 1056, :arglists ([x])}

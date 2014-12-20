@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.ioc-macros", :name "async-custom-terminators", :file "clojure/core/async/impl/ioc_macros.clj", :type :var, :src "(def async-custom-terminators\n  {'clojure.core.async/<! `take!\n   'clojure.core.async/>! `put!\n   'clojure.core.async/alts! 'clojure.core.async/ioc-alts!\n   :Return `return-chan})", :column 1, :line 974}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.async", :name "unmix-all", :file "clojure/core/async.clj", :type :fn, :src "(defn unmix-all\n  \"removes all inputs from the mix\"\n  [mix]\n  (unmix-all* mix))", :column 1, :line 762, :arglists ([mix]), :doc "removes all inputs from the mix"}

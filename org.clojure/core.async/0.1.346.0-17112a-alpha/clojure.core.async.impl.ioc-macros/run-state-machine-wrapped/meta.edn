@@ -1,0 +1,1 @@
+{:ns "clojure.core.async.impl.ioc-macros", :name "run-state-machine-wrapped", :file "clojure/core/async/impl/ioc_macros.clj", :type :fn, :src "(defn run-state-machine-wrapped [state]\n  (try\n    (run-state-machine state)\n    (catch Throwable ex\n      (impl/close! (aget-object state USER-START-IDX))\n      (throw ex))))", :column 1, :line 942, :arglists ([state])}

@@ -1,0 +1,1 @@
+{:ns "cljs.core.async.impl.ioc-macros", :name "no-op", :file "cljs/core/async/impl/ioc_macros.clj", :type :fn, :src "(defn no-op\n  \"This function can be used inside a gen-plan when no operation is to be performed\"\n  []\n  (fn [plan]\n    [nil plan]))", :column 1, :line 99, :arglists ([]), :doc "This function can be used inside a gen-plan when no operation is to be performed"}
